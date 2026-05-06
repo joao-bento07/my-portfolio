@@ -22,7 +22,7 @@ npm install
 npm run dev
 ```
 
-Acesse [http://localhost:5173](http://localhost:5173) no navegador.
+Acesse https://my-portfolio-pi-eight-72.vercel.app/ no navegador.
 
 ---
 

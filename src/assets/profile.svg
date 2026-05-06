@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="380" viewBox="0 0 320 380" fill="none">
+  <rect width="320" height="380" fill="#111827"/>
+  <circle cx="160" cy="140" r="70" fill="#1e293b"/>
+  <circle cx="160" cy="140" r="58" fill="#334155"/>
+  <path d="M160 210 C90 210 40 260 40 380 L280 380 C280 260 230 210 160 210Z" fill="#1e293b"/>
+  <text x="160" y="340" text-anchor="middle" fill="#64748b" font-family="system-ui" font-size="13">Substitua por profile.jpg</text>
+</svg>
